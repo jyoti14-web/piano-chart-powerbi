@@ -17,8 +17,8 @@ The visualization highlights **monthly sales** along with **percentage change tr
 - **Data Visualization & Storytelling**
 
 ## 📂 Dataset
-- File: `Piano Chart-Sample-Data.xlsx`  
-- Contains sample monthly sales data used for visualization.
+- *File: `Piano Chart-Sample-Data.xlsx`  
+- *Contains sample monthly sales data used for visualization.
 
 ## 📸 Visualization Preview
 "C:\Users\Jyoti pal\OneDrive\Pictures\Screenshots\Screenshot 2025-09-26 145607.png"
