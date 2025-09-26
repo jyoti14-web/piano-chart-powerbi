@@ -40,4 +40,4 @@ Feel free to fork this repo, raise issues, or share your thoughts!
 
 
 ### 🔖 Tags
-`Power BI` `Data Analytics` `Data Visualization` `Business Intelligence` `Piano Chart`
+`Power BI` `Data Analytics` `Dax Measures` `Business Intelligence` `Piano Chart`
